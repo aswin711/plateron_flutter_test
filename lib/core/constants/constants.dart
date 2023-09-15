@@ -1,0 +1,1 @@
+const String menuJsonFilePath = "features/menu/data/data_sources/local/dummy/menu.dart";
